@@ -1,6 +1,6 @@
 {
   "name": "@surge-global-engineering/y-protocols",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Yjs encoding protocols",
   "type": "module",
   "funding": {
